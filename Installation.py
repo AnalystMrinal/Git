@@ -1,4 +1,13 @@
-i = 0
-while i < 10:
-    print("Hello World !")
-    i += 1
+# Christmas Tree 
+
+import time
+
+Random_Words = [" ", "    *", "   ***", "  *****"," *******","*********", "   | |", "   | |"]
+
+for i in Random_Words:
+    print(i)
+    time.sleep(1)
+
+print("Merry Christmas !")
+print(" ")
+print(" ")
