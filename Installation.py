@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Christmas Tree 
 
 import time
@@ -14,4 +11,4 @@ for i in Random_Words:
 print("Merry Christmas !")
 print(" ")
 print(" ")
->>>>>>> New
+
